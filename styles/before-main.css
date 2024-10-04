@@ -64,8 +64,8 @@ p {
  *
  */
 a {
-  color: #777777;
-	text-decoration: none;
+  color: #717171;
+	text-decoration: underline;
 }
 /*
  * Provide additional visual cues to mouse users only
@@ -84,3 +84,4 @@ a:hover, a:focus, input:focus {
   outline: none;
   border-color: transparent;
 }
+
